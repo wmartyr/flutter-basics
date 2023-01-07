@@ -1,0 +1,4 @@
+#Sat Jan 07 17:00:22 ACDT 2023
+base.0=/home/woody/Documents/flutter/projects/flutter_basics/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
